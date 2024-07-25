@@ -35,7 +35,7 @@ class Rover {
     }
 
     return {
-      message: message.name,
+      message: message.messageName,
       results: roverResponse,
     };
   }
